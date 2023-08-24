@@ -11,6 +11,11 @@ body {
     line-height: 1.5;
     color : hsl(220, 15%, 55%);
     background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .card {
